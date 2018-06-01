@@ -1,2 +1,2 @@
-# A Spide For Ganji.com
+# A Spider For Ganji.com
 
