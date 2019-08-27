@@ -1,2 +1,1 @@
-# A Spider For Ganji.com
-
+# 赶集网爬虫
